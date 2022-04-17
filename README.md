@@ -8,6 +8,6 @@
  * First: Readig the project brief and understanding the required tasks
  * Data extraction, data validation, data merging, data cleaning and data modeling using SQL queries
  * Data manipulation, data processing and analyzing using Python
- * Data Visualization 
+ * Data Visualization using matplotlib and seaborn. 
  * Coming up with insights and making recommendations
- * Presenting the findings using PowerPoint  
+ * Presenting the findings using PowerPoint.  
